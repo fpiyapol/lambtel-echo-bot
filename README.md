@@ -1,0 +1,1 @@
+This repository for learning and practicing about AWS Lambda, Serverless and Telegram bot (BotFather).
